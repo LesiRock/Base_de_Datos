@@ -10,6 +10,9 @@ https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/4
 Avances con tabla llena, faltan grupos
 https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/5
 
+Consulta con Funciones
+https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/6
+
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
 
