@@ -16,6 +16,9 @@ https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/6
 ORDER BY y COUNT, BORRAR y UPDATE
 https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/7
 
+JOINS-INNER JOIN, LEFT JOIN, RIGHT JOIN
+https://www.db-fiddle.com/f/tWw4B23pX3Zn6KzrBnJCkv/9
+
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
 
